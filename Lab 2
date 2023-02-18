@@ -1,0 +1,79 @@
+<!DOCTYPE HTML>
+<html> 
+    <!--Four other elements include <table>, <h2>, <h3>, and <i>-->
+    <head>
+        <meta name="description" content="Travel">
+        <meta name="keywords" content="Travel, travel guide">
+        <link rel="stylesheet" type="text/css" href="Lab2_CSS.css"/>
+    <title>Allison's Travel Guide</title>
+    </head>
+    <body>
+        <div id="Heading">
+<h1>Welcome to Allison's Travel Guide</h1>
+<h2>For only discovering the best places to go this year</h2>
+<br/>
+        </div>
+<div class="List">
+    <!--All images found on stock free image website https://pixabay.com/-->
+    <table> 
+        <tr>
+            <td><img src="street-g923106744_1920.jpg" width="200" height="190" alt="A picture of Sicily"></a></td>
+            <td><img src="sea-g03c32c262_1920.jpg" width="230" height="190" alt="A picture of Hawaii"></a></td>
+            <td><img src="palace-g22adc2fbd_1920.jpg" width="210" height="190" alt="A picture of London"></a></td>
+            <td><img src="japan-g5025de63b_1920.jpg" width="240" height="190" alt="A picture of Tokyo"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Sicily"><b>Sicily</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Hawaii"><b>Hawaii</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/London"><b>London</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Tokyo"><b>Tokyo</b></a></td>
+        </tr>
+        <tr>
+            <td><p>Sicily is an island off the coast of Italy. Click the link to learn more about it!</p></td>
+            <td><p>Hawaii is an island below the West Coast of the United States. Click the link to learn more about it!</p></td>
+            <td><p>London is a part of the UK, known for its landmark locations such as the Big Ben. Click the link to learn more about it!</p></td>
+            <td><p>Toyko is a promintent location in Japan, known to be a bustling city. Click the link to learn more about it!</p></td>
+        </tr>
+        <tr>
+            <td><img src="paris-gd926a0a2c_1920.jpg" width="220" height="190" alt="A picture of Paris"></a></td>
+            <td><img src="aurora-gfdc110b9e_1920.jpg" width="230" height="190" alt="A picture of Alaska"></a></td>
+            <td><img src="heart-reef-ged3896425_1920.jpg" width="210" height="190" alt="A picture of The Great Barrier Reef in Australia"></a></td>
+            <td><img src="river-g6bf0326fa_1920.jpg" width="240" height="190" alt="A picture of Yellowstone National Park in Wyoming"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Paris"><b>Paris</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Alaska"><b>Alaska</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Great_Barrier_Reef"><b>Great Barrier Reef</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Yellowstone_National_Park"><b>Yellowstone National Park</b></a></td>
+        </tr>
+        <tr>
+            <td><p>Paris is a part of France, known for its famous landmarks like the Eiffel Tower. Click the link to learn more about it!</p></td>
+            <td><p>Alaska is a part of the United States near the Candadian region. Click the link to learn more about it!</p></td>
+            <td><p>The Great Barrier Reef is a famous landmark in Australia. Click the link to learn more about it!</p></td>
+            <td><p>Yellowstone National Park is one of the most famous National Parks in the United States, located in Wyoming. Click the link to learn more about it!</p></td>
+        </tr>
+        <tr>
+            <td><img src="tiber-river-g2153d605d_1920.jpg" width="220" height="190" alt="A picture of Rome"></a></td>
+            <td><img src="turks-ge8c0d2a48_1920.jpg" width="230" height="190" alt="A picture of Turks and Caicos"></a></td>
+            <td><img src="river-ga29082c86_1920.jpg" width="230" height="190" alt="A picture of Glacier National Park in Montana"></a></td>
+            <td><img src="jungle-g5f62b49d9_1920.jpg" width="240" height="190" alt="A picture of Costa Rica"></a></td>
+        </tr>
+        <tr>
+            <td><a href="https://en.wikipedia.org/wiki/Rome"><b>Rome</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Turks_and_Caicos_Islands"><b>Turks and Caicos</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Glacier_National_Park_(U.S.)"><b>Glacier National Park</b></a></td>
+            <td><a href="https://en.wikipedia.org/wiki/Costa_Rica"><b>Costa Rica</b></a></td>
+        </tr>
+        <tr>
+            <td><p>Rome is a part of Italy, known for its famous landmarks and deeply rooted histroy. Click the link to learn more about it!</p></td>
+            <td><p>Turks and Caicos are a set of tropical islands. Click the link to learn more about it!</p></td>
+            <td><p>Glacier National Park is a famous National Park in Montana. Click the link to learn more about it!</p></td>
+            <td><p>Costa Rica is a country near the Pacific Ocean. Click the link to learn more about it!</p></td>
+        </tr>
+    </table>
+</div>
+<h3>Creator's credentials:</h3>
+<iframe src="https://docs.google.com/document/d/1jrU8qBdLqIwPk-kxxtVYUPG4JNBWuzjvysvV2L39JXk/edit?usp=sharing" height="600" width = "800"></iframe>
+<p><i>Any reccomendations?</i></p><input type="text"> 
+    </body>
+</html>

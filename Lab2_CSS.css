@@ -1,0 +1,25 @@
+*{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 10px;
+    opacity: 1;
+    
+}
+body{
+
+    background-color:rgb(242, 242, 217); 
+    position: relative;
+    
+    
+}
+.List{
+    padding: 5px;
+    margin: 10px;
+    height: 1000px;
+    width: 50px;
+    row-gap: 500px;
+}
+#Heading{
+    text-align: center;
+}
+/* New CSS elements used: border-radius, row-gap, opacity */
